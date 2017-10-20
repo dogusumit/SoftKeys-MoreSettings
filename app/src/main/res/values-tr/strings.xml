@@ -1,0 +1,65 @@
+<resources>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/8462534600</string>
+
+    <string name="app_name">Ekran Tuşu - Gelişmiş Seçenekler</string>
+    <string name="aciklama">Seni buralara kadar getirmek istemezdim ama, ne yapalım ayarlarını değiştirmeye yetkim yok ki :(</string>
+    <string name="str1">\"Ayarlar - Erişilebilirlik - Ekran Tuşu\" servisini açmalısın!</string>
+    <string name="str2">Ayarlar - Erişilebilirlik</string>
+    <string name="str3">Titreşim</string>
+    <string name="str4">Recents</string>
+    <string name="str5">Home</string>
+    <string name="str6">Back</string>
+    <string name="str7">Geri Tuşu solda</string>
+    <string name="str8">Dizilim : </string>
+    <string name="str9">Bar Yükseklik : </string>
+    <string name="str10">Şeffaflık : </string>
+    <string name="str11">Konum X : </string>
+    <string name="str12">Konum Y : </string>
+    <string name="str13">Back Uzun Bas</string>
+    <string name="str14">Home Uzun Bas</string>
+    <string name="str15">Recents Uzun Bas</string>
+    <string name="str16">Arkaplan Rengi</string>
+    <string name="str17">Back Tuşu İkon</string>
+    <string name="str18">Home Tuşu İkon</string>
+    <string name="str19">Recents Tuşu İkon</string>
+    <string name="str20">Bar Genişlik : </string>
+    <string name="str21">Tuşları göstermek için dokunun</string>
+    <string name="str23">Seç</string>
+    <string name="str24">0</string>
+    <string name="str25">&#8230;</string>
+    <string name="str26">Tuş Yükseklik : </string>
+    <string name="str27">Tuş Genişlik : </string>
+    <string name="str28">İptal</string>
+
+    <string-array name="spiner_icin">
+        <item>Yatay</item>
+        <item>Dikey</item>
+    </string-array>
+    <string-array name="spiner_icin2">
+        <item>null</item>
+        <item>Uygulama Aç</item>
+        <item>Tuşları Gizle</item>
+        <item>Sessize Al</item>
+    </string-array>
+    <string-array name="spiner_icin3">
+        <item>Siyah</item>
+        <item>Mavi</item>
+        <item>Camgöbeği</item>
+        <item>Gri</item>
+        <item>Yeşil</item>
+        <item>Eflatun</item>
+        <item>Kırmızı</item>
+        <item>Beyaz</item>
+        <item>Sarı</item>
+    </string-array>
+    <string-array name="spiner_icin4">
+        <item>Eski İkon</item>
+        <item>Yeni İkon</item>
+        <item>Yeni İkon 2</item>
+        <item>Özel Resim</item>
+    </string-array>
+    <string name="title_activity_picker">ActivityPicker</string>
+</resources>
