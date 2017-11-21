@@ -319,7 +319,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (ActivityNotFoundException e) {
             try {
                 startActivity(new Intent(Intent.ACTION_VIEW,
-                        Uri.parse("https://play.google.dogusumit/store/apps/details?id=" + getApplicationContext().getPackageName())));
+                        Uri.parse("https://play.google.com/store/apps/details?id=" + getApplicationContext().getPackageName())));
             } catch (Exception ane) {
                 toastla(e.getMessage());
             }
@@ -337,7 +337,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (ActivityNotFoundException e) {
             try {
                 startActivity(new Intent(Intent.ACTION_VIEW,
-                        Uri.parse("https://play.google.dogusumit/store/apps/developer?id=" + getString(R.string.play_store_id))));
+                        Uri.parse("https://play.google.com/store/apps/developer?id=" + getString(R.string.play_store_id))));
             } catch (Exception ane) {
                 toastla(e.getMessage());
             }

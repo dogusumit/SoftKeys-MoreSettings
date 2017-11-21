@@ -126,7 +126,7 @@
                 android:digits="0123456789-"
                 android:hint="@string/str24"
                 android:imeOptions="actionDone"
-                android:inputType="number" />
+                android:inputType="numberDecimal|numberSigned" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -142,7 +142,7 @@
                 android:digits="0123456789-"
                 android:hint="@string/str24"
                 android:imeOptions="actionDone"
-                android:inputType="number" />
+                android:inputType="numberDecimal|numberSigned" />
         </LinearLayout>
 
         <LinearLayout
@@ -183,7 +183,7 @@
                 android:id="@+id/edittext6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:digits="0123456789-"
+                android:digits="0123456789"
                 android:hint="@string/str24"
                 android:imeOptions="actionDone"
                 android:inputType="number" />
@@ -199,7 +199,7 @@
                 android:id="@+id/edittext7"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:digits="0123456789-"
+                android:digits="0123456789"
                 android:hint="@string/str24"
                 android:imeOptions="actionDone"
                 android:inputType="number" />
